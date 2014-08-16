@@ -1,0 +1,5 @@
+camera,front camera,rear camera,mp,mega pixel,zoom,picture quality,picture,HDR,video,video quality,digital camera
+screen,screen,display,HD,pixels,qHD,amoled
+OS,android,ios,kit kat,jelly bean,ginger bread,honey comb,windows, 
+Performance,interface,UI,user interface,speed,CPU,processor
+Memory,RAM,internal memory,memory,capacity,internal capacity,gb
